@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
+  "homepage": "https://github.com/devkyungjun/devkyungjun.github.io.git",
   "scripts": {
     "test": "npx stylelint _sass/**/*.scss",
     "fixlint": "npx stylelint _sass/**/*.scss --fix"
