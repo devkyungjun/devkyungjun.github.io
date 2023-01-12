@@ -14,7 +14,9 @@
   "homepage": "https://github.com/devkyungjun/devkyungjun.github.io.git",
   "scripts": {
     "test": "npx stylelint _sass/**/*.scss",
-    "fixlint": "npx stylelint _sass/**/*.scss --fix"
+    "fixlint": "npx stylelint _sass/**/*.scss --fix",
+    "deploy" : "gh-pages -d public",
+  	"predeploy" : "npm run build" 
   },
   "devDependencies": {
     "gulp": "^4.0.2",
