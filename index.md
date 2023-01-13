@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: 이준생
+subtitle: 이직 준비생 블로그
 layout: page
 callouts: home_callouts
 show_sidebar: true
