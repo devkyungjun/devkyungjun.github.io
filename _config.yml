@@ -8,7 +8,7 @@ description: >
 baseurl: ""
 url: "https://devkyungjun.github.io/"
 permalink: pretty
-favicon: '/assets/images/favicon.png'
+favicon: '/assets/images/fav.png'
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
