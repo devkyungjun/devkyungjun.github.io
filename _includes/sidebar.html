@@ -53,16 +53,16 @@
 
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
 
-    {% unless site.theme_mode %}
+    <!-- {% unless site.theme_mode %} -->
     <button class="mode-toggle btn" aria-label="Switch Mode">
       <i class="fas fa-adjust"></i>
     </button>
     {% if site.data.contact.size > 0 %}
     <span class="icon-border"></span>
-    {% endif %}
+    <!-- {% endif %}
     {% endunless %}
     {% for entry in site.data.contact %}
-    {% capture url %}
+    {% capture url %} -->
     <!-- {%- if entry.type == 'github' -%} -->
     <!-- https://github.com/{{ site.github.username }} -->
     <!-- {%- elsif entry.type == 'twitter' -%} -->
@@ -72,11 +72,11 @@
     javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
     <!-- {%- elsif entry.type == 'rss' -%} -->
     <!-- {{ "/feed.xml" | relative_url }} -->
-    {%- else -%}
+    <!-- {%- else -%}
     {{ entry.url }}
     {%- endif -%}
     {% endcapture %}
-    {% if url %}
+    {% if url %} -->
     <a href="{{ url }}" aria-label="{{ entry.type }}" {% assign link_types=nil %} {% unless entry.noblank %} {% assign
       link_types=link_types | append: " noopener" %} target="_blank" {% endunless %} {% if entry.type=='mastodon' %} {%
       assign link_types=link_types | append: " me" %} {% endif %} {% if link_types %}rel="{{ link_types | lstrip }}" {%
