@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /
-
-Sitemap: https://devkyungjun.github.io/sitemap.xml
