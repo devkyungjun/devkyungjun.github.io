@@ -57,12 +57,10 @@
     <button class="mode-toggle btn" aria-label="Switch Mode">
       <i class="fas fa-adjust"></i>
     </button>
-
     {% if site.data.contact.size > 0 %}
     <span class="icon-border"></span>
     {% endif %}
     {% endunless %}
-
     {% for entry in site.data.contact %}
     {% capture url %}
     {%- if entry.type == 'github' -%}
@@ -78,7 +76,6 @@
     {{ entry.url }}
     {%- endif -%}
     {% endcapture %}
-
     {% if url %}
     <a href="{{ url }}" aria-label="{{ entry.type }}" {% assign link_types=nil %} {% unless entry.noblank %} {% assign
       link_types=link_types | append: " noopener" %} target="_blank" {% endunless %} {% if entry.type=='mastodon' %} {%
