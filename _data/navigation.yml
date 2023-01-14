@@ -15,5 +15,7 @@
       link: /example-recipe/
     - name: Showcase
       link: /showcase/
+- name: portfolio
+  link: /portfolio/
 - name: Blog
   link: /blog/
