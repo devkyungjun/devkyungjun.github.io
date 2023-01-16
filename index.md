@@ -1,12 +1,12 @@
 ---
-title: 이준생
+# title: 이준생
 subtitle: 이직 준비생 블로그
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# 제목을 입력해주세요
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
