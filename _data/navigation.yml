@@ -1,21 +1,22 @@
-- name: Docs
-  link: /docs/
-- name: Example Pages
-  link: /#
-  dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
+
+# - name: Example Pages
+#   link: /#
+#   dropdown:
+#     - name: Landing Page With Callouts
+#       link: /landing/
+#     - name: Sponsors Page
+#       link: /sponsors/
+#     - name: Image Gallery
+#       link: /gallery/
+#     - name: Products
+#       link: /products/
+#     - name: Recipe Page
+#       link: /example-recipe/
+#     - name: Showcase
+#       link: /showcase/
 - name: Portfolio
-  link: /portfolio/
+  link: /products/
 - name: Blog
   link: /blog/
+- name: Docs
+  link: /docs/
