@@ -1,8 +1,9 @@
 ---
-# title: 이준생
+# title: 
 subtitle: UI Development
 layout: page
-callouts: home_callouts
+hero_image: img/csrhymes-com.jpg
+# callouts: home_callouts
 show_sidebar: true
 ---
 
