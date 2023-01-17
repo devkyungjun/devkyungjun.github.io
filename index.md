@@ -1,8 +1,10 @@
 ---
-# title: 
-subtitle: UI Development
+title: UI/UX
+subtitle: Design&Development
 layout: page
-hero_image: img/csrhymes-com.jpg
+hero_image: img/mainhero.png
+
+# hero_height: is-fullwidth
 # callouts: home_callouts
 show_sidebar: true
 ---
