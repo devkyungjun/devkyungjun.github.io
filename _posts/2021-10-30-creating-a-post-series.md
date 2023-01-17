@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a post series
+title: 폰트의 중요성
 description: How to create a post series with Bulma Clean Theme
 date: 2021-10-30 09:00:07
 hero_image: /bulma-clean-theme/img/blog-post-series.jpg
