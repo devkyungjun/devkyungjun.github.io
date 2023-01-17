@@ -4,19 +4,19 @@ layout: default
 
 <div class="content">
 
-    <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+  <p>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
 
-    {% if page.series %}
-        {% include series.html %}
-    {% endif %}
+  {% if page.series %}
+  {% include series.html %}
+  {% endif %}
 
-    {{ content }}
+  {{ content }}
 </div>
 
 <div class="tags">
-    {% for tag in page.tags %}
-      {% include tag.html tag=tag %}
-    {% endfor %}
+  {% for tag in page.tags %}
+  {% include tag.html tag=tag %}
+  {% endfor %}
 </div>
 
 {% unless site.hide_share_buttons %}
@@ -24,5 +24,5 @@ layout: default
 {% endunless %}
 
 {% if site.disqus.shortname %}
-  {% include disqus.html %}
+{% include disqus.html %}
 {% endif %}
