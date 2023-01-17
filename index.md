@@ -1,18 +1,16 @@
 ---
 # title: 이준생
-subtitle: 이직 준비생 블로그
+subtitle: 디자인&개발
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# 제목을 입력해주세요
+# 디자인&개발 팁
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+![GitHub Repo stars](/img/bulma-clean-theme-4by3.jpg)
 
 ## Ruby Gem
 

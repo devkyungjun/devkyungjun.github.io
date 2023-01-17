@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
-title: 이준생
-tagline: 이직 준비생 블로그
+title: 준생
+tagline: 디자인&개발
 email: sportscome4@gmail.com
 description: >
-  이직 준비생 블로그
+  디자인&개발
 baseurl: ""
 url: "https://devkyungjun.github.io/"
 permalink: pretty
