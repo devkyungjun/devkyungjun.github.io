@@ -6,9 +6,9 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# 디자인&개발 팁
+# 디자인&개발
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+복잡하고 비효율적인 기획,디자인,개발 과정을 더 쉽고 효율적으로 디자인을 컴포넌트화 하여 유지보수와 최적화 하는것을 지향합니다.
 
 ![GitHub Repo stars](/img/bulma-clean-theme-4by3.jpg)
 
