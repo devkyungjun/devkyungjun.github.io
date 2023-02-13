@@ -18,5 +18,5 @@
   link: /products/
 - name: Blog
   link: /blog/
-- name: Docs
-  link: /docs/
+# - name: Docs
+#   link: /docs/
