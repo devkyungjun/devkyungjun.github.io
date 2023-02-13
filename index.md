@@ -13,7 +13,7 @@ show_sidebar: true
 
 복잡하고 비효율적인 기획,디자인,개발 과정을 더 쉽고 효율적으로 디자인을 컴포넌트화 하여 유지보수와 최적화 하는것을 지향합니다.
 
-![GitHub Repo stars](img/csrhymes-com.jpg)
+<!-- ![GitHub Repo stars](img/csrhymes-com.jpg) -->
 
 
 
