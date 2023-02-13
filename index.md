@@ -1,5 +1,5 @@
 ---
-title: UI/UX
+title: 디자인과 개발
 subtitle: Design&Development
 layout: page
 hero_image: img/mainhero.png
